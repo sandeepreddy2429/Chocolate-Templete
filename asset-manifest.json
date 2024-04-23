@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chocolate-Templete/static/css/main.f855e6bc.css",
+    "main.js": "/Chocolate-Templete/static/js/main.0ff4ac08.js",
+    "static/js/453.a6a97343.chunk.js": "/Chocolate-Templete/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Chocolate-Templete/index.html",
+    "main.f855e6bc.css.map": "/Chocolate-Templete/static/css/main.f855e6bc.css.map",
+    "main.0ff4ac08.js.map": "/Chocolate-Templete/static/js/main.0ff4ac08.js.map",
+    "453.a6a97343.chunk.js.map": "/Chocolate-Templete/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0ff4ac08.js"
+  ]
+}
